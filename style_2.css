@@ -1,0 +1,22 @@
+/* one way to do this is this one. */
+
+h1,h2{
+    color: red;
+}
+
+/* other way we can do the same by creating the same class in each of the heading*/
+
+/* same goes with the paragraph */
+
+p{
+    color: green;
+}
+
+p.important{
+    font-size: 18px;
+
+}
+
+p#intro{
+    font-weight: bold;
+}
